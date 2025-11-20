@@ -6,7 +6,5 @@ The company wants to understand how total revenue across all products has perfor
 
 **Key summary for surface insights:**<br>
 1. The key KPI for this explorative analysis is USD price, supported by additional fields such as product name and purchase timestamp.<br><br>
-
 2. The analysis focuses on identifying aggregate metrics, patterns, outliers, and unexpected anomalies—particularly by examining total revenue by month and product, along with minimum and maximum values.<br><br>
-
 3. Early insights will also be surfaced by segmenting the data across meaningful dimensions such as region, category, or other user demographics like marketing channel or account creation method.
