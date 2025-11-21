@@ -25,3 +25,4 @@ The company wants to understand how total revenue across all products has perfor
 
 * PlaySphere generates an average of approximately $2 million in annual revenue with around 7,000 customer orders per year.
 * Sales reached their highest point between 2020 and early 2021, driven by increased demand for gaming and electronic products during that pandemic period.
+* Based on the 2019 and 2020 data, seasonality patterns show that sales and order volume peak in December, while the lowest levels occur in January and February.
