@@ -15,3 +15,5 @@ The company wants to understand how total revenue across all products has perfor
 <p align="center">
   <img width="591" height="366" alt="Playsphere data structure drawio" src="https://github.com/user-attachments/assets/79238e75-4c8f-4fab-99ed-601c57e83889" />
 </p>
+
+<p>playsphere dataset ERD</p>
