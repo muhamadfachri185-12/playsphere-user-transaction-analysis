@@ -27,3 +27,10 @@ The company wants to understand how total revenue across all products has perfor
 * Sales reached their highest point between 2020 and early 2021, driven by increased demand for gaming and electronic products during that pandemic period.
 * Based on the 2019 and 2020 data, seasonality patterns show that sales and order volume peak in December (approximately 12% of total orders), while the lowest levels occur in January and February (4% - 5% of total orders).
 * North America is the largest contributor to revenue, accounting for more than 52% of total global sales between 2019 and 2021. EMEA follows with 30.3%
+
+
+<h4>Key Product Performance</h4>
+
+* Demand for gaming electronics surged in 2020, driven largely by lockdown behavior and increased at-home entertainment. Several key products — including PlayStation 5 bundles, gaming monitors, and Nintendo Switch — saw rapid growth during this period.
+* The strongest growth came from PlayStation 5 Bundles (+381%), Lenovo IdeaPad Gaming Laptops (+204%), and Acer Nitro V (+133%), reflecting a rapid shift toward high-performance gaming devices.
+* Despite strong pandemic-driven demand, sales dropped significantly in 2021 (-70% to -90%) across almost all product categories, indicating that the spike was temporary and heavily tied to pandemic-specific behavior.
