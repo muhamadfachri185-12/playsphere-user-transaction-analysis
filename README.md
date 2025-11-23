@@ -34,3 +34,7 @@ The company wants to understand how total revenue across all products has perfor
 * Demand for gaming electronics surged in 2020, driven largely by lockdown behavior and increased at-home entertainment. Several key products — including PlayStation 5 bundles, gaming monitors, and Nintendo Switch — saw rapid growth during this period.
 * The strongest growth came from PlayStation 5 Bundles (+381%), Lenovo IdeaPad Gaming Laptops (+204%), and Acer Nitro V (+133%), reflecting a rapid shift toward high-performance gaming devices.
 * Despite strong pandemic-driven demand, sales dropped significantly in 2021 (-70% to -90%) across almost all product categories, indicating that the spike was temporary and heavily tied to pandemic-specific behavior.
+* Overall, just three products — the 4K Gaming Monitor, Nintendo Switch, and PS5 Bundle — contribute over $5.2M, making up more than 85% of total revenue ($6.15M).
+* The 27-inch 4K Gaming Monitor is the strongest revenue driver, generating $1.97M, making it the top-performing product across all periods.
+* The Nintendo Switch follows closely with $1.66M, showing consistently high sales throughout the timeline, indicating strong and stable consumer demand.
+* Sony PlayStation 5 Bundle also delivers substantial results with $1.59M in revenue, reinforcing the dominance of gaming consoles during the observed years.
