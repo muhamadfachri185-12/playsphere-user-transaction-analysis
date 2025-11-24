@@ -42,6 +42,10 @@ The company wants to understand how total revenue across all products has perfor
 <p align="center">
   <img width="710" height="124" alt="sales_performa" src="https://github.com/user-attachments/assets/319d9aef-5b2b-404e-b97b-3e9a4f7c539b" />
 </p>
+<p align="center">
+  <img width="825" height="507" alt="image" src="https://github.com/user-attachments/assets/7968bf9e-ada1-43fb-98d4-9aeb960ead27" />
+</p>
+
 
 
 
