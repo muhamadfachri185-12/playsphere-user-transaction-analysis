@@ -61,6 +61,10 @@ The company wants to understand how total revenue across all products has perfor
 * Email and social channels also rose sharply in 2020, reflecting a broad shift toward online engagement during lockdowns.
 * By 2021, performance dropped sharply, with direct marketing revenue falling back to ~$437K, returning near pre-pandemic levels.
 * These shifts confirm that the 2020 spike was pandemic-driven and temporary, not a sustainable indicator of long-term channel growth.
+<p align="center">
+  <img width="394" height="126" alt="image" src="https://github.com/user-attachments/assets/8a41b9c6-0d83-4400-8236-4a972e3fe667" />
+</p>
+
 
 <h3>Product Revenue & Performance by Region</h3>
 
@@ -70,6 +74,15 @@ The company wants to understand how total revenue across all products has perfor
 * High-value products like monitors, PS5 bundles, and Nintendo Switches are heavily concentrated in Western markets—North America holding 50–65% and EMEA 30–35%—while APAC and LATAM together contribute under 15%, showing playsphere’s strongest product-market fit lies decisively in these two regions.
 * Gaming and console products are ByteX’s primary revenue drivers, with the PS5 Bundle, Nintendo Switch, and 27” 4K Monitor contributing 60–70%+ of regional sales and remaining far more resilient than accessories, which consistently generate <5% and offer limited margin impact.
 * APAC and LATAM are highly volatile markets, surging +190% in 2020 but collapsing –85% to –90% in 2021, reflecting supply-chain and price sensitivity as well as low brand penetration, making them opportunity regions rather than reliable revenue drivers.
+<p align="center">
+  <img width="784" height="457" alt="image" src="https://github.com/user-attachments/assets/d59b2f03-2ca1-42be-bf12-129fd2d9bae8" />
+</p>
+<p align="center">
+  <img width="820" height="513" alt="image" src="https://github.com/user-attachments/assets/670b018c-31f3-412d-8c09-05aeebc22a2d" />
+</p>
+
+
+
 
 <br><br>
 <h2>Recommendations</h2>
