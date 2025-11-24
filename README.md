@@ -140,6 +140,9 @@ Since high-value products are concentrated 80–95% in Western markets, APAC/LAT
 
 * Many records show shipping dates occurring before the purchase date.
 * Is this caused by input errors, timezone issues, or date-format inconsistencies (DD/MM vs MM/DD)? Which timestamp field should be treated as the primary source of truth?
+<p align="center">
+  <img width="464" height="80" alt="image" src="https://github.com/user-attachments/assets/ee84766b-723b-4d19-a7ef-484b78a3d2cc" />
+</p>
 
 <h4>Inconsistent Pricing for the Same Product</h4>
 
