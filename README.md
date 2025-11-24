@@ -134,3 +134,17 @@ Since high-value products are concentrated 80–95% in Western markets, APAC/LAT
 
 * Are country codes already mapped correctly into NA, EMEA, APAC, and LATAM?
 * Is there an official regional classification used internally?
+
+<h3>Questions for Stakeholders Prior to Project Advancement</h3>
+
+<h4>Shipping Timestamps Are Potentially Incorrect</h4>
+Shipping dates occurring before purchase dates invalidate SLA analysis, lead-time calculations, and fulfillment performance metrics.
+
+<h4>SProduct Pricing Contains Extreme Outliers</h4>
+Widely inconsistent prices indicate possible data hygiene issues, influencing revenue, margin, and product-level insights.
+
+<h4>Inconsistent PRODUCT_ID Assignments</h4>
+Analysis by product risk misinterpretation unless a verified mapping of products to IDs is established.
+
+<h4>Potential Misclassification in Region Mapping</h4>
+Without validated region mapping, regional performance metrics may be inaccurate or misleading.
