@@ -166,7 +166,7 @@ Since high-value products are concentrated 80–95% in Western markets, APAC/LAT
 * Are country codes already mapped correctly into NA, EMEA, APAC, and LATAM?
 * Is there an official regional classification used internally?
 
-<h3>Questions for Stakeholders Prior to Project Advancement</h3>
+<h3>Assumptions and Caveats</h3>
 
 <h4>Shipping Timestamps Are Potentially Incorrect</h4>
 
