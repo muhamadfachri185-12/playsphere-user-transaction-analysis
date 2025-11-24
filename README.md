@@ -27,7 +27,12 @@ The company wants to understand how total revenue across all products has perfor
 * Sales peaked in 2020 to early 2021, driven by a pandemic-era surge in demand for gaming and electronics.
 * Seasonality is clear, with December contributing ~12% of annual orders, while January–February fall to just 4–5%, marking the lowest activity.
 * Revenue is heavily concentrated in Western markets, with North America contributing 52% and EMEA 30.3%, reinforcing that these two regions are the core drivers of PlaySphere’s global performance.
-
+<p align="center">
+  <img width="710" height="124" alt="sales_performa" src="https://github.com/user-attachments/assets/319d9aef-5b2b-404e-b97b-3e9a4f7c539b" />
+</p>
+<p align="center">
+  <img width="825" height="507" alt="image" src="https://github.com/user-attachments/assets/7968bf9e-ada1-43fb-98d4-9aeb960ead27" />
+</p>
 
 <h3>Key Product Performance</h3>
 
@@ -39,14 +44,6 @@ The company wants to understand how total revenue across all products has perfor
 * The 27-inch 4K Gaming Monitor is the top revenue contributor at $1.97M, making it the strongest performer across all years.
 * The Nintendo Switch follows with $1.66M, showing consistently strong demand throughout the period.
 * The PS5 Bundle adds $1.59M, reinforcing gaming consoles as one of the most influential and high-impact categories for PlaySphere.
-<p align="center">
-  <img width="710" height="124" alt="sales_performa" src="https://github.com/user-attachments/assets/319d9aef-5b2b-404e-b97b-3e9a4f7c539b" />
-</p>
-<p align="center">
-  <img width="825" height="507" alt="image" src="https://github.com/user-attachments/assets/7968bf9e-ada1-43fb-98d4-9aeb960ead27" />
-</p>
-
-
 
 
 <h3>Key Sales by Marketing Channels & Plaftorm</h3>
