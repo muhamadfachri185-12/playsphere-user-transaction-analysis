@@ -113,3 +113,24 @@ Since high-value products are concentrated 80–95% in Western markets, APAC/LAT
 
 <br><br>
 <h2>Clarifying Questions, Assumptions, and Caveats</h2>
+<h3>Questions for Stakeholders Prior to Project Advancement</h3>
+
+<h4>Mismatch Between PURCHASE_TS and SHIP_TS</h4>
+
+* Many records show shipping dates occurring before the purchase date.
+* Is this caused by input errors, timezone issues, or date-format inconsistencies (DD/MM vs MM/DD)? Which timestamp field should be treated as the primary source of truth?
+
+<h4>Inconsistent Pricing for the Same Product</h4>
+
+* Prices for the same product — such as the Nintendo Switch — vary significantly even within US country code records, ranging from approximately $134 to $175.
+* This raises uncertainty about whether the differences come from seasonal discounts, temporary promotional pricing, or inconsistencies in how prices were recorded in the system.
+
+<h4>Inconsistent PRODUCT_ID for Identical Product Names</h4>
+
+* Same product names appear with different product IDs.
+* Do these represent different SKUs, bundles, or data entry errors? Is there a master product table that serves as the authoritative reference?
+
+<h4>Regional Mapping Based on COUNTRY_CODE</h4>
+
+* Are country codes already mapped correctly into NA, EMEA, APAC, and LATAM?
+* Is there an official regional classification used internally?
