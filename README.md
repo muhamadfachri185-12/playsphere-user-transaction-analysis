@@ -154,6 +154,9 @@ Since high-value products are concentrated 80–95% in Western markets, APAC/LAT
 
 * Same product names appear with different product IDs.
 * Do these represent different SKUs, bundles, or data entry errors? Is there a master product table that serves as the authoritative reference?
+<p align="center">
+  <img width="270" height="339" alt="image" src="https://github.com/user-attachments/assets/ab2d51d9-7102-4f61-97f1-f114f0ce7e96" />
+</p>
 
 <h4>Regional Mapping Based on COUNTRY_CODE</h4>
 
