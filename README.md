@@ -145,6 +145,11 @@ Since high-value products are concentrated 80–95% in Western markets, APAC/LAT
 
 * Prices for the same product — such as the Nintendo Switch — vary significantly even within US country code records, ranging from approximately $134 to $175.
 * This raises uncertainty about whether the differences come from seasonal discounts, temporary promotional pricing, or inconsistencies in how prices were recorded in the system.
+<br><br>
+<p align="center">
+  <img width="1031" height="411" alt="image" src="https://github.com/user-attachments/assets/8b6dc6b3-9cdf-4175-ba66-b2dde5b397f7" />
+</p>
+
 
 <h4>Inconsistent PRODUCT_ID for Identical Product Names</h4>
 
