@@ -39,6 +39,10 @@ The company wants to understand how total revenue across all products has perfor
 * The 27-inch 4K Gaming Monitor is the top revenue contributor at $1.97M, making it the strongest performer across all years.
 * The Nintendo Switch follows with $1.66M, showing consistently strong demand throughout the period.
 * The PS5 Bundle adds $1.59M, reinforcing gaming consoles as one of the most influential and high-impact categories for PlaySphere.
+<p align="center">
+  <img width="710" height="124" alt="sales_performa" src="https://github.com/user-attachments/assets/319d9aef-5b2b-404e-b97b-3e9a4f7c539b" />
+</p>
+
 
 
 <h3>Key Sales by Marketing Channels & Plaftorm</h3>
