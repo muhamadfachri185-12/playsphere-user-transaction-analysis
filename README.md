@@ -171,7 +171,7 @@ Since high-value products are concentrated 80–95% in Western markets, APAC/LAT
 <h4>Shipping Timestamps Are Potentially Incorrect</h4>
 Shipping dates occurring before purchase dates invalidate SLA analysis, lead-time calculations, and fulfillment performance metrics.
 
-<h4>SProduct Pricing Contains Extreme Outliers</h4>
+<h4>Product Pricing Contains Extreme Outliers</h4>
 Widely inconsistent prices indicate possible data hygiene issues, influencing revenue, margin, and product-level insights.
 
 <h4>Inconsistent PRODUCT_ID Assignments</h4>
